@@ -26,8 +26,9 @@ A deep-dive into the most common ways ML pipelines fail silently in production �
 |---|-------|------|--------|------|
 | 1 | [I Spent 3 Months Debugging a "Working" ML Model — Here's What I Found (Part 1)](https://youtu.be/GsxQQvXGzDs) | Theory | 🟢 Live | — |
 | 2 | [I Spent 3 Months Debugging a "Working" ML Model — Here's What I Found (Part 2)](https://youtu.be/j_IjpiZE_4k) | Theory | 🟢 Live | — |
+| 3 | [How to Build a Data Freshness Validation Layer in Python — Silent Data Source Failure Fix](https://youtu.be/xW1xgx28D_w) | Hands-On | 🟢 Live | [Data Freshness Validator](https://github.com/ai-engineering-with-peeush/yt-03-data-freshness-validator) |
 
-> **How the series works:** Part 1 and Part 2 cover the theory — the 5 failure modes, why they happen, and what the fix looks like. Hands-On code videos to implement fixes are coming soon!
+> **How the series works:** Part 1 and Part 2 cover the theory — the 5 failure modes, why they happen, and what the fix looks like. Video 3 covers hands-On code video to implement Data Freshness Validator Layer in Python!
 
 ---
 
