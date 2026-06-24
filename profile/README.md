@@ -18,17 +18,28 @@ If you've ever had a model silently fail in production and spent hours figuring 
 
 ## Content
 
+### 🔵 Series: Anomaly & Behavioral Detection in Production
+
+Unsupervised detection of behavioral anomalies in production — no labels, no predefined rules. From raw logs to a scoring API, with an honest evaluation against injected attacks.
+
+| # | Title | Type | Status | Code |
+|---|-------|------|--------|------|
+| 5 | [Build a Login Anomaly Detector in Python — No Labels, No Rules (End-to-End)](https://youtu.be/h3JQGq-ZA_I) | Hands-On | 🟡 Scheduled (Jun 25) | [Login Anomaly Detector](https://github.com/ai-engineering-with-peeush/yt-05-login-anomaly-detector) |
+
+---
+
 ### 🔴 Series: Debugging ML in Production
 
 A deep-dive into the most common ways ML pipelines fail silently in production — and how to fix them with clean, testable Python.
 
 | # | Title | Type | Status | Code |
 |---|-------|------|--------|------|
-| 1 | [I Spent 3 Months Debugging a "Working" ML Model — Here's What I Found (Part 1)](https://youtu.be/GsxQQvXGzDs) | Theory | 🟢 Live | — |
-| 2 | [I Spent 3 Months Debugging a "Working" ML Model — Here's What I Found (Part 2)](https://youtu.be/j_IjpiZE_4k) | Theory | 🟢 Live | — |
+| 4 | [You Can't Debug What You Can't See — Adding Step-Level Observability to Your ML Pipeline](https://youtu.be/0-SEzeCT9qE) | Hands-On | 🟢 Live | [Step-Level Observability](https://github.com/ai-engineering-with-peeush/yt-04-step-level-observability) |
 | 3 | [How to Build a Data Freshness Validation Layer in Python — Silent Data Source Failure Fix](https://youtu.be/xW1xgx28D_w) | Hands-On | 🟢 Live | [Data Freshness Validator](https://github.com/ai-engineering-with-peeush/yt-03-data-freshness-validator) |
+| 2 | [I Spent 3 Months Debugging a "Working" ML Model — Here's What I Found (Part 2)](https://youtu.be/j_IjpiZE_4k) | Theory | 🟢 Live | — |
+| 1 | [I Spent 3 Months Debugging a "Working" ML Model — Here's What I Found (Part 1)](https://youtu.be/GsxQQvXGzDs) | Theory | 🟢 Live | — |
 
-> **How the series works:** Part 1 and Part 2 cover the theory — the 5 failure modes, why they happen, and what the fix looks like. Video 3 covers hands-On code video to implement Data Freshness Validator Layer in Python!
+> **How the series works:** Parts 1 & 2 cover the theory — the 5 failure modes, why they happen, and what the fix looks like. Parts 3 & 4 are hands-on implementations fixing two of those failure modes in clean, testable Python.
 
 ---
 
